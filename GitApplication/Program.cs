@@ -13,5 +13,10 @@ namespace GitApplication
             Console.WriteLine("eventueller Merge Konflikt");
             Console.WriteLine("123");
         }
+
+        static void NeueMethode()
+        {
+            Console.WriteLine("Hier");
+        }
     }
 }
