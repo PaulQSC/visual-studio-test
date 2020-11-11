@@ -16,7 +16,7 @@ namespace GitApplication
 
         static void NeueMethode()
         {
-            Console.WriteLine("Hier");
+            Console.WriteLine("neuer Text");
         }
     }
 }
