@@ -10,7 +10,7 @@ namespace GitApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("eventueller Merge Konflikt hallo heute");
+            Console.WriteLine("eventueller Merge Konflikt67");
             Console.WriteLine("123");
         }
 
