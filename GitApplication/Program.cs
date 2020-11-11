@@ -13,5 +13,10 @@ namespace GitApplication
             Console.WriteLine("Test123");
             Console.WriteLine("123");
         }
+
+        static void NeueMethode()
+        {
+            Console.WriteLine("Hier");
+        }
     }
 }
